@@ -1,0 +1,14 @@
+README.txt
+setup.py
+my_package/model.py
+my_package.egg-info/PKG-INFO
+my_package.egg-info/SOURCES.txt
+my_package.egg-info/dependency_links.txt
+my_package.egg-info/top_level.txt
+my_package/analysis/visualize.py
+my_package/data/dataset.py
+my_package/data/transforms/blur.py
+my_package/data/transforms/crop.py
+my_package/data/transforms/flip.py
+my_package/data/transforms/rescale.py
+my_package/data/transforms/rotate.py
